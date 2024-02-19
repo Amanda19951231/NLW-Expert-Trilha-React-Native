@@ -14,10 +14,6 @@
   
   <img src="https://img.shields.io/badge/Code%20quality-A-green"/>
   
-
-  <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
-    <img alt="Made by Tálison" src="https://img.shields.io/badge/Made%20by-talison-red">
-  </a>
 </p>
 
 ---
